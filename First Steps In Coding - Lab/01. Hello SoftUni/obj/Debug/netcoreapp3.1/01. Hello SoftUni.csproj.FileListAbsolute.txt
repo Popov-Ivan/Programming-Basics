@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.exe
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.deps.json
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.runtimeconfig.json
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.dll
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.pdb
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.dll
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.pdb
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.genruntimeconfig.cache

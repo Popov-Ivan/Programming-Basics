@@ -1,0 +1,13 @@
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10.exe
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10.deps.json
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10.runtimeconfig.json
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10.runtimeconfig.dev.json
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10.dll
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10.pdb
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10.csprojAssemblyReference.cache
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10.AssemblyInfoInputs.cache
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10.AssemblyInfo.cs
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10.dll
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10.pdb
+D:\SoftUni\Programming Basics with C# - февруари 2021\First Steps In Coding - Lab\02. Nums from 1 to 10\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10.genruntimeconfig.cache

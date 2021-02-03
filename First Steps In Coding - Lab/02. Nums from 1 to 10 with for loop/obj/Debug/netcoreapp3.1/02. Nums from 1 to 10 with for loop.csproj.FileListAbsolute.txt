@@ -1,0 +1,13 @@
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.exe
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.deps.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.runtimeconfig.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.runtimeconfig.dev.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\bin\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.csprojAssemblyReference.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.AssemblyInfoInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.AssemblyInfo.cs
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\02. Nums from 1 to 10 with for loop\obj\Debug\netcoreapp3.1\02. Nums from 1 to 10 with for loop.genruntimeconfig.cache

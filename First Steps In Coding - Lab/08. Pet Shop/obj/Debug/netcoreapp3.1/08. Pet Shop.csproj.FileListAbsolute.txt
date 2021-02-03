@@ -1,0 +1,13 @@
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.exe
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.deps.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.runtimeconfig.dev.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\bin\Debug\netcoreapp3.1\08. Pet Shop.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csprojAssemblyReference.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfoInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.AssemblyInfo.cs
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Lab\08. Pet Shop\obj\Debug\netcoreapp3.1\08. Pet Shop.genruntimeconfig.cache
