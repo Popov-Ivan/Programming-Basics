@@ -1,0 +1,13 @@
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.exe
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.deps.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.runtimeconfig.dev.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\bin\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csprojAssemblyReference.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.AssemblyInfo.cs
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\03. Deposit Calculator\obj\Debug\netcoreapp3.1\03. Deposit Calculator.genruntimeconfig.cache

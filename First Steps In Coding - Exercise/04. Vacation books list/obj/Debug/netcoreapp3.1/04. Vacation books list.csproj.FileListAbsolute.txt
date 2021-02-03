@@ -1,0 +1,12 @@
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.exe
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.deps.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.runtimeconfig.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.runtimeconfig.dev.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\bin\Debug\netcoreapp3.1\04. Vacation books list.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.AssemblyInfoInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.AssemblyInfo.cs
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\04. Vacation books list\obj\Debug\netcoreapp3.1\04. Vacation books list.genruntimeconfig.cache

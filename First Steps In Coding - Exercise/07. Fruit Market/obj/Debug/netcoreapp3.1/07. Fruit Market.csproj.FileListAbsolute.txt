@@ -1,0 +1,12 @@
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.exe
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.deps.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.runtimeconfig.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.runtimeconfig.dev.json
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\bin\Debug\netcoreapp3.1\07. Fruit Market.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.AssemblyInfoInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.AssemblyInfo.cs
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.csproj.CoreCompileInputs.cache
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.dll
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.pdb
+D:\SoftUni\Programming-Basics\First Steps In Coding - Exercise\07. Fruit Market\obj\Debug\netcoreapp3.1\07. Fruit Market.genruntimeconfig.cache
