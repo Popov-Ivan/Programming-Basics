@@ -1,0 +1,13 @@
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.exe
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.deps.json
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.json
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.runtimeconfig.dev.json
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.dll
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\bin\Debug\netcoreapp3.1\01. Excellent Result.pdb
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csprojAssemblyReference.cache
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.AssemblyInfo.cs
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.dll
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.pdb
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\01. Excellent Result\obj\Debug\netcoreapp3.1\01. Excellent Result.genruntimeconfig.cache

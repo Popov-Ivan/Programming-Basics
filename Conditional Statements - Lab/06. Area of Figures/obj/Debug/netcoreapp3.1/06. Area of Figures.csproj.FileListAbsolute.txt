@@ -1,0 +1,13 @@
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.exe
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.deps.json
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.runtimeconfig.json
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.runtimeconfig.dev.json
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.dll
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\bin\Debug\netcoreapp3.1\06. Area of Figures.pdb
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.csprojAssemblyReference.cache
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.AssemblyInfoInputs.cache
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.AssemblyInfo.cs
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.csproj.CoreCompileInputs.cache
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.dll
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.pdb
+D:\GitHub\Programming-Basics\Conditional Statements - Lab\06. Area of Figures\obj\Debug\netcoreapp3.1\06. Area of Figures.genruntimeconfig.cache
